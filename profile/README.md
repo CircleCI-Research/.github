@@ -1,6 +1,5 @@
-## Hey, welcome to CircleCI 👋
+## Loop Lab by CircleCI
 
-![An illustration of geometric shapes colored in green and the phrase: "Ship quality code, faster".](https://github.com/CircleCI-Public/.github/blob/main/profile/circleci-header-v2.png)
+![CircleCI - Get building](https://github.com/CircleCI-Public/.github/blob/main/profile/circleci-header-v2.png)
 
-Our journey began on **September 1st, 2011**, and since then we have made significant strides in the world of continuous integration and deployment (CI/CD) 🌟. We are proud to empower developers and businesses all over the globe 🌍 by helping them automate their build, test, and deploy processes.
-
+**Real experiments. Real code. Real results.** Check out this page to learn more about our thinking, documentation, and what new innovations we're exploring for all things AI + CI/CD.
